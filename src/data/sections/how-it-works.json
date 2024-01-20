@@ -1,0 +1,38 @@
+{
+  "title": {
+    "first": "How ",
+    "second": "InvonixTech",
+    "third": "Collaborate With You"
+  },
+  "subtitle": "Discover Our Company",
+  "items": [
+    {
+      "name": "Thinking Big",
+      "icon": "/img/icons/sm/1.svg",
+      "text": "Dream beyond boundaries. At InvonixTech, we envision ambitious solutions, aligning with your grandest aspirations. Together, let's think big and redefine possibilities."
+    },
+    {
+      "name": "Starting Small",
+      "icon": "/img/icons/sm/2.svg",
+      "text": "In the realm of technology, successful journeys often start with thoughtful, incremental steps. We focus on the details, starting small to build a strong foundation."
+    },
+    {
+      "name": "Creating Fast",
+      "icon": "/img/icons/sm/3.svg",
+      "text": "In the dynamic landscape of technology, speed is paramount. InvonixTech emphasize rapid development and deployment, ensuring that your ideas materialize swiftly."
+    },
+    {
+      "name": "Innovating Scale",
+      "icon": "/img/icons/sm/4.svg",
+      "text": "As your projects grow, innovation is at the core of scaling success. We leverage our expertise to innovate at scale, accommodating expansion and evolving requirements."
+    }
+  ],
+  "button1": {
+    "label": "Learn More",
+    "link": "/about"
+  },
+  "button2": {
+    "label": "How We Work",
+    "link": "/contact"
+  }
+}

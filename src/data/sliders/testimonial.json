@@ -1,0 +1,36 @@
+{
+  "subtitle": "Testimonials",
+  "title": { "first": "What Our", "second": "Clients", "third": "Say" },
+  "items": [
+    {
+      "name": "Omanety",
+      "image": "img/faces/1.jpg",
+      "role": "Agency Design",
+      "text": "InvonixTech surpassed expectations! Their dedicated team delivered our project with precision and expertise."
+    },
+    {
+      "name": "Margaret Williams",
+      "image": "img/faces/2.jpg",
+      "role": "Agency Design",
+      "text": "Exceptional service from InvonixTech – their SEO strategies significantly boosted our online visibility."
+    },
+    {
+      "name": "Tarryn Gillies",
+      "image": "img/faces/3.jpg",
+      "role": "Agency Design",
+      "text": "Reliable hosting services from InvonixTech ensured our website's seamless performance. Highly recommended!."
+    },
+    {
+      "name": "Tamzyn French",
+      "image": "img/faces/4.jpg",
+      "role": "Agency Design",
+      "text": "Great experience working with InvonixTech's UI/UX team – our digital presence has never looked better."
+    },
+    {
+      "name": "Margaret Williams",
+      "image": "img/faces/5.jpg",
+      "role": "Agency Design",
+      "text": "Top-notch QA & Testing services from InvonixTech – their thorough approach eliminated any software issues."
+    }
+  ]
+}

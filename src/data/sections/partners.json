@@ -1,0 +1,23 @@
+{
+  "title": "test",
+  "items": [
+    {
+      "image": "img/partners/cus1.png",
+      "alt": "partner",
+      "link": "#.",
+      "name": "British Gas Online"
+    },
+    {
+      "image": "img/partners/cus3.png",
+      "alt": "partner",
+      "link": "#.",
+      "name": "Real Truck"
+    },
+    {
+      "image": "img/partners/cus2.png",
+      "alt": "partner",
+      "link": "#.",
+      "name": "InAction Photos"
+    }
+  ]
+}

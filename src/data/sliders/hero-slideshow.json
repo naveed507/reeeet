@@ -1,0 +1,38 @@
+{
+  "title": {
+    "first": "InvonixTech Provide Services <br />and Solutions",
+    "second": "To Enterprise"
+  },
+  "subtitle": { "first": "Invonix", "second": "Tech" },
+  "button": { "label": "Let’s Talk", "link": "/contact" },
+  "description": "Let's Talk – Connect with Invonixtech for innovative solutions, seamless collaboration, and a conversation that sparks the success of your digital endeavors. Get in touch today!",
+  "slides": [
+    {
+      "image": "img/photo/sl1.jpg"
+    },
+    {
+      "image": "img/photo/sl7.jpg"
+    },
+    {
+      "image": "img/photo/sl5.jpg"
+    }
+  ],
+  "items": [
+    {
+      "label": "Dedicated Team",
+      "title": "Team",
+      "text": "Elevate your digital journey with innovative solutions and a dedicated team "
+    },
+    {
+      "label": "UI / UX",
+      "title": "Brand Digitalization",
+      "text": "Transform your digital presence with Invonixtech's UI/UX expertise. "
+    },
+
+    {
+      "label": "Web & Mobile Application",
+      "title": "Application Development",
+      "text": "Empower your business with Invonixtech's cutting-edge web and mobile app development services. Elevate user experiences and achieve digital excellence."
+    }
+  ]
+}

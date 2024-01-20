@@ -1,0 +1,44 @@
+{
+  "title": {
+    "first": "Business",
+    "second": "Success  ",
+    "third": "With <br />",
+    "fourth": "InvonixTech"
+  },
+  "subtitle": "Our Skills",
+  "description": "Unlock Business Success With Technology Expertise at Invonixtech. From innovative solutions to cutting-edge strategies, we empower your growth in the digital era. Explore our skills for a transformative journey.",
+  "items": [
+    {
+      "label": "Web Development",
+      "value": "99"
+    },
+    {
+      "label": "Mob App Development",
+      "value": "99"
+    },
+    {
+      "label": "UX / UI Design",
+      "value": "85"
+    },
+    {
+      "label": "Internet of Things",
+      "value": "50"
+    },
+    {
+      "label": "Hosting Services",
+      "value": "90"
+    },
+    {
+      "label": "Artificial Intelligence",
+      "value": "50"
+    },
+    {
+      "label": "SEO & Digital Marketing",
+      "value": "85"
+    }
+  ],
+  "button": {
+    "label": "Contact For More",
+    "link": "/contact"
+  }
+}
